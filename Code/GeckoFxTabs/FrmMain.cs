@@ -10,7 +10,7 @@ using Gecko;
 
 #region Copyright
 
-// Пример к статье: 
+// Пример к статье: http://www.softez.pp.ua/2014/02/23/tabs-in-geckofx-c-sharp/
 // Автор: dredei
 
 #endregion
